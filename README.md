@@ -1,6 +1,6 @@
 Introducing our latest trading robot, designed to help you make smarter investment decisions using simple moving averages (SMA). 
 
-Our (SMA trading robot)[https://track.deriv.com/_3BN6kpM0JXI-WNa_P_Nb_2Nd7ZgqdRLk/1/] is an innovative tool that uses advanced algorithms to analyze market trends and predict future price movements. 
+Our [SMA trading robot](https://track.deriv.com/_3BN6kpM0JXI-WNa_P_Nb_2Nd7ZgqdRLk/1/) is an innovative tool that uses advanced algorithms to analyze market trends and predict future price movements. 
 
 By utilizing the power of SMA, our robot is able to identify key trading opportunities and execute trades with speed and accuracy.  
 
