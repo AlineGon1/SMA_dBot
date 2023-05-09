@@ -1,4 +1,4 @@
-SMA_dBot, your best bot for price action.
+# SMA_dBot, your best bot for price action.
 
 Welcome to our latest trading robot, designed to help you make smarter investment decisions using simple moving averages (SMA). Our Service is Powered by [Deriv](https://track.deriv.com/_3BN6kpM0JXI-WNa_P_Nb_2Nd7ZgqdRLk/1/)
 
@@ -10,4 +10,4 @@ This allows for more precise trading decisions, resulting in greater profitabili
 
 With real-time data and analysis, our SMA trading robot gives you access to the information you need to make informed decisions and stay ahead of the competition. 
 
-#[Sign up](https://track.deriv.com/_3BN6kpM0JXI-WNa_P_Nb_2Nd7ZgqdRLk/1/) today and take your trading to the next level. [Download Now!](https://github.com/AlineGon1/SMA_dBot/archive/refs/heads/main.zip)
+# [Sign up](https://track.deriv.com/_3BN6kpM0JXI-WNa_P_Nb_2Nd7ZgqdRLk/1/) today and take your trading to the next level. [Download Now!](https://github.com/AlineGon1/SMA_dBot/archive/refs/heads/main.zip)
