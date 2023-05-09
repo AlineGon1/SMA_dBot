@@ -1,6 +1,6 @@
 # [SMA_dBot](https://track.deriv.com/_3BN6kpM0JXI-WNa_P_Nb_2Nd7ZgqdRLk/1/), your best bot for price action.
 
-Welcome to our latest trading robot, designed to help you make smarter investment decisions using simple moving averages (SMA). Our Service is Powered by [Deriv](https://track.deriv.com/_3BN6kpM0JXI-WNa_P_Nb_2Nd7ZgqdRLk/1/)
+Welcome to our latest trading robot, designed to help you make smarter investment decisions using simple moving averages (SMA). Our Service is Powered by [Deriv](https://track.deriv.com/_3BN6kpM0JXI-WNa_P_Nb_2Nd7ZgqdRLk/1/).
 
 Our [SMA trading robot](https://track.deriv.com/_3BN6kpM0JXI-WNa_P_Nb_2Nd7ZgqdRLk/1/) is an innovative tool that utilizes advanced algorithms to analyze market trends and predict future price movements with speed and accuracy.
 
